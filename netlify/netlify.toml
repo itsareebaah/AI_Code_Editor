@@ -1,0 +1,8 @@
+[build]
+  functions = "netlify/functions"
+  publish = "."
+
+[[redirects]]
+  from = "/generate"
+  to = "/.netlify/functions/ai-proxy"
+  status = 200
