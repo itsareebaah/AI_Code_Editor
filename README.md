@@ -145,11 +145,5 @@ Developed by **Areeba Ahmad**
 
 ---
 
-## Live Demo
 
-A live version of the application is deployed on Netlify.
-
-[Live Demo](https://codeeditorai.netlify.app/) • [GitHub Repo](https://github.com/itsareebaah/AiCodeEditor.git)
-
----
 
